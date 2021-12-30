@@ -46,7 +46,7 @@ body {
 
 .panel.active h3 {
     opacity: 1;
-    transition: opacity 0.3s ease-in 0.5s;
+    transition: opacity 0.4s ease-in 0.5s;
 }
 
 @media (max-width: 680px) {     /* esto solo afecta a pantallas menores de 680px*/
